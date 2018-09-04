@@ -1,0 +1,14 @@
+What happens when you initialize a repository? What can you do to find out?
+A .git folder is created, but no commit is made. However, now with the .git
+folder you can make commits and do other git things.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+In the working directory you have the current files, while the staging area
+contains the files that you want to commit (make a timestamp of). The
+repository contains both the current files and all previous timestamps.
+It makes it easier to choose which files you wish to make a timestamp of, and
+you do not have to choose all at once, but can add some, change some other
+files and then add them, making you less likely to forget some files you were
+working on earlier.
+
