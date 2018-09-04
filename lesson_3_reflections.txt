@@ -15,3 +15,10 @@ do not have to create a new repository manually, and it links back to the
 original. Clone copies a repository to my local machine, and branches are
 named comits in a repository.
 
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+It allows you to compare it with your commits. You also need it if you want to
+merge it for example your master branch. All of this can be done offline since
+it is stored locally.
+
+
