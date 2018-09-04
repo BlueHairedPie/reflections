@@ -12,3 +12,15 @@ you do not have to choose all at once, but can add some, change some other
 files and then add them, making you less likely to forget some files you were
 working on earlier.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
+If you have done several logical changes and they are in different files, you
+add only the files that does one logical change to staging and then commit
+onlt that change.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+It is helpful if you want to try different stuff, for example experimental
+features without changing the master branch, or if several people are working
+on the same projekt.
+
