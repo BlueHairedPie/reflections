@@ -34,3 +34,9 @@ It combines two commits into one, with two or more parents. Since it has
 several parents, the natural way to represent it is as a commit pointing at all
 of its parents.
 
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+Pros: less work for me if git fixes everything for me. However, it may often
+not be obvious for git how to merge and doing it manually ensures that it gets
+done correctly, hopefully.
+
