@@ -24,3 +24,13 @@ It is helpful if you want to try different stuff, for example experimental
 features without changing the master branch, or if several people are working
 on the same projekt.
 
+How do the diagrams help you visualize the branch structure?
+It makes it easier to see how the commits are connected through parents. Which
+in turn shows how the branches are connected.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagran the way we do?
+It combines two commits into one, with two or more parents. Since it has
+several parents, the natural way to represent it is as a commit pointing at all
+of its parents.
+
