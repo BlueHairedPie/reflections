@@ -21,4 +21,10 @@ It allows you to compare it with your commits. You also need it if you want to
 merge it for example your master branch. All of this can be done offline since
 it is stored locally.
 
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+That would be more difficult. I will not need all these commands but I will
+have to keep track of old versions manually. These versions could be shared on
+for example Google drive, but then it would be difficult to track changes,
+differences, etc.
 
